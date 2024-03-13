@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ramos_aragon_toolbar</string>
+    <string name="item_menu_configuracion">Configuración</string>
+    <string name="item_menu_perfil">Ver Perfil</string>
+    <string name="item_menu_geolocalización">Enviar mi Ubicación</string>
+    <string name="item_menu_nuevacuenta">Crear nueva cuenta</string>
+    <string name="item_menu_salir">Cerrar sesión</string>
+
+    <string name="btn_nueva_activity">Abrir nueva ventana</string>
+    <string name="txt_texto_segunda_activity">Esta es la segunda activity en ejecución</string>
 </resources>
